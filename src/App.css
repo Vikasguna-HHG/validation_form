@@ -1,0 +1,58 @@
+*{
+  font-size: 15px;
+  /* font-weight: bold; */
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+  color: red;
+  /* margin-left: 50px; */
+  font-family: serif;
+  letter-spacing: 2px;
+}
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.table1
+{
+  margin-left:50%;
+  transform: translateX(-50%);
+  margin-top:10px;
+}
+.head_l
+{
+  text-align: center;
+  font-weight:900 grey;
+  margin-top:0px;
+  font-size:30px; 
+}
+.login_input
+{
+  font-size: .873rem;
+  line-height: 1.25rem;
+  padding:5px;
+}
+.button_l
+{
+  background-color: rgb(79, 70, 229);
+  color:white;
+  border-radius:4px;
+  border:none;
+  width: 380px;
+  padding:10px;
+  text-transform: uppercase;
+  margin-right:20px;
+}
+.table2
+{
+  border:2px;
+}
+.sele
+{
+  font-size: .873rem;
+  line-height: 1.25rem;
+  padding:5px;
+  width:380px;
+  text-align:center;
+}
